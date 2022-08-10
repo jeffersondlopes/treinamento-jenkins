@@ -38,7 +38,7 @@ public class CadastroCozinhaIT {
 	@Autowired
 	private CozinhaRepository cozinhaRepository;
 	
-	private Cozinha cozinhaAmericana;pwd
+	private Cozinha cozinhaAmericana;
 	private int quantidadeCozinhasCadastradas;
 	private String jsonCorretoCozinhaChinesa;
 	
